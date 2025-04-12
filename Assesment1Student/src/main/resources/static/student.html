@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Page</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <style>
+        body {
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>STUDENT PAGE</h1>
+
+        <div class="form-group">
+            <label for="studentName">Student Name:</label>
+            <input type="text" class="form-control" id="studentName">
+        </div>
+
+        <div class="form-group">
+            <label for="studentAge">Student Age:</label>
+            <input type="number" class="form-control" id="studentAge">
+        </div>
+
+        <div class="form-group">
+            <label for="studentGender">Student Gender:</label>
+            <select class="form-control" id="studentGender">
+                <option value="Male">Male</option>
+                <option value="Female">Female</option>
+                <option value="Other">Other</option>
+            </select>
+        </div>
+
+        <div class="form-group">
+            <label for="studentTrainer">Student Trainer:</label>
+            <input type="text" class="form-control" id="studentTrainer">
+        </div>
+
+        <button class="btn btn-primary" id="addStudent">Add Student</button>
+        <button class="btn btn-info" id="viewStudents">View Students</button>
+
+        <table class="table" id="studentTable" style="margin-top: 20px; display: none;">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Name</th>
+                    <th>Age</th>
+                    <th>Gender</th>
+                    <th>Trainer</th>
+                </tr>
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
+    </div>
+
+    <script>
+        $(document).ready(function() {
+
+            $("#addStudent").click(function() {
+                let name = $("#studentName").val();
+                let age = $("#studentAge").val();
+                let gender = $("#studentGender").val();
+                let trainer = $("#studentTrainer").val();
+
+                if (name && age && gender && trainer) {
+                    let student = {
+                        name: name,
+                        age: age,
+                        gender: gender,
+                        trainer: trainer
+                    };
+
+                    // Send data to Spring Boot API
+                    $.ajax({
+                        url: "http://localhost:8181/saveStudent", // Replace with your API endpoint
+                        type: "POST",
+                        contentType: "application/json",
+                        data: JSON.stringify(student),
+                        success: function() {
+                            alert("Student added successfully!");
+                            $("#studentName").val("");
+                            $("#studentAge").val("");
+                            $("#studentTrainer").val("");
+                        },
+                        error: function() {
+                            alert("Error adding student.");
+                        }
+                    });
+                } else {
+                    alert("Please fill in all fields.");
+                }
+            });
+
+            $("#viewStudents").click(function() {
+                $.ajax({
+                    url: "http://localhost:8181/getStudents", // Replace with your API endpoint
+                    type: "GET",
+                    success: function(students) {
+                        $("#studentTable tbody").empty();
+                        students.forEach(student => {
+                            $("#studentTable tbody").append(`
+                                <tr>
+                                    <td>${student.id}</td>
+                                    <td>${student.name}</td>
+                                    <td>${student.age}</td>
+                                    <td>${student.gender}</td>
+                                    <td>${student.trainer}</td>
+                                </tr>
+                            `);
+                        });
+                        $("#studentTable").show();
+                    },
+                    error: function() {
+                        alert("Error retrieving students.");
+                    }
+                });
+            });
+        });
+    </script>
+
+</body>
+</html>
