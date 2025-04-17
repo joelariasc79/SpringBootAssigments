@@ -15,6 +15,7 @@
 		<item value="org.eclipse.jgit.ssh.apache:7.2.0.202503040940-r"/>
 		<item value="org.eclipse.jgit:7.2.0.202503040940-r"/>
 		<item value="org.eclipse.jst.common.fproj.enablement.jdt:3.37.0.v202501090237"/>
+		<item value="org.eclipse.jst.enterprise_ui.feature:3.37.0.v202501052159"/>
 		<item value="org.eclipse.justj.openjdk.hotspot.jre.full:21.0.6.v20250130-0529"/>
 		<item value="org.eclipse.m2e.feature:2.8.0.20250224-0720"/>
 		<item value="org.eclipse.m2e.logback.feature:2.7.0.20241001-1350"/>
@@ -28,6 +29,9 @@
 		<item value="org.eclipse.tm.terminal.feature:12.0.0.202410081652"/>
 		<item value="org.eclipse.tm.terminal.view.feature:12.0.0.202501171425"/>
 		<item value="org.eclipse.wst.common.fproj:3.7.4.v202501090237"/>
+		<item value="org.eclipse.wst.json_ui.feature:1.1.11.v202308160419"/>
+		<item value="org.eclipse.wst.web_ui.feature:3.36.0.v202503020853"/>
+		<item value="org.eclipse.wst.xml_ui.feature:3.37.0.v202503020853"/>
 		<item value="org.jboss.tools.m2e.wro4j.feature:1.2.1.202301111328"/>
 		<item value="org.sonatype.m2e.egit.feature:0.17.0.202209271423"/>
 	</list>
@@ -38,6 +42,7 @@
 		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
 		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="/Users/joel_arias/Desktop/SynergesticIT/Training/Second/SpringBoot/SpringBoot/Assigments/TravelGigJSPAssesment"/>
 			<item value="/Users/joel_arias/Desktop/SynergesticIT/Training/Second/SpringBoot/SpringBoot/Assigments/TravelGig"/>
 			<item value="/Users/joel_arias/Desktop/SynergesticIT/Training/Second/SpringBoot/SpringBoot/Assigments/HotelMicroservice"/>
 			<item value="/Users/joel_arias/Desktop/SynergesticIT/Training/Second/SpringBoot/SpringBoot/Assigments/Assesment1Student"/>
@@ -46,8 +51,8 @@
 			<item value=""/>
 		</list>
 		<section name="ExternalProjectImportWizard.dialogBounds">
-			<item key="DIALOG_X_ORIGIN" value="416"/>
-			<item key="DIALOG_Y_ORIGIN" value="179"/>
+			<item key="DIALOG_X_ORIGIN" value="620"/>
+			<item key="DIALOG_Y_ORIGIN" value="251"/>
 			<item key="DIALOG_WIDTH" value="586"/>
 			<item key="DIALOG_HEIGHT" value="703"/>
 			<item key="DIALOG_FONT_NAME" value="1|.AppleSystemUIFont|11.0|0|COCOA|1|.AppleSystemUIFont"/>
