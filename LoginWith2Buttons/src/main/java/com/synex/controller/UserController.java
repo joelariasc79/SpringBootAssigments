@@ -72,14 +72,8 @@ public class UserController {
 	public String signup(@RequestParam String userEmail, @RequestParam String userName, @RequestParam String password) {
 		User user = new User();
 		System.out.println(password);
-//		BCryptPasswordEncoder passwordEncoder = new BCryptPasswordEncoder();		
-//		String hashedPassword = passwordEncoder.encode(password);
-//		System.out.println("hashedPassword: " + hashedPassword);
-//		
-				
 		user.setUserName(userName);
 		user.setEmail(userEmail);
-//		user.setUserPassword(hashedPassword);
 		user.setUserPassword(password);
 		Set<Role> role = roleService.getDefaultRole();
 		user.setRoles(role);
