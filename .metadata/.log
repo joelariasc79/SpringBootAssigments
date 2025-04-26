@@ -2504,3 +2504,152 @@ END
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2025-04-23 13:49:52.281
 !MESSAGE Started org.springframework.tooling.boot.ls LS process 67542
+!SESSION 2025-04-26 01:37:23.579 -----------------------------------------------
+eclipse.buildId=4.35.0.202503091919
+java.version=21.0.6
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4 -keyring /Users/joel_arias/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.springframework.boot.ide.branding.sts4 -keyring /Users/joel_arias/.eclipse_keyring -data /Users/joel_arias/Desktop/SynergesticIT/Training/Second/SpringBoot/SpringBoot/Assigments
+
+!ENTRY ch.qos.logback.classic 1 0 2025-04-26 01:37:29.320
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY org.eclipse.lemminx.uber-jar 4 0 2025-04-26 01:37:29.739
+!MESSAGE bundle org.eclipse.lemminx.uber-jar:0.29.0 (326) Component descriptor entry 'OSGI-INF/*.xml' not found
+
+!ENTRY ch.qos.logback.classic 1 0 2025-04-26 01:37:32.971
+!MESSAGE Logback config file: /Users/joel_arias/Desktop/SynergesticIT/Training/Second/SpringBoot/SpringBoot/Assigments/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.7.0.20241001-1350.xml
+
+!ENTRY org.eclipse.ui 2 0 2025-04-26 01:37:34.142
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2025-04-26 01:37:34.143
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.ui 2 0 2025-04-26 01:37:35.626
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2025-04-26 01:37:35.626
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2025-04-26 01:37:42.976
+!MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
+START:
+/Applications/SpringToolSuite4.app/Contents/Eclipse/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.macosx.x86_64_21.0.6.v20250130-0529/jre/bin/java
+-Dsts.lsp.client=eclipse
+-Xmx1024m
+-XX:TieredStopAtLevel=1
+-Dspring.config.location=classpath:/application.properties
+-Xlog:jni+resolve=off
+-XX:ErrorFile=/Users/joel_arias/Desktop/SynergesticIT/Training/Second/SpringBoot/SpringBoot/Assigments/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1745649462974
+-Dlanguageserver.hover-timeout=225
+-jar
+/Applications/SpringToolSuite4.app/Contents/Eclipse/plugins/org.springframework.tooling.boot.ls_1.61.0.202503061939/servers/spring-boot-language-server/spring-boot-language-server-1.61.0-SNAPSHOT-exec.jar
+END
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-04-26 01:37:42.979
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2025-04-26 01:37:43.002
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 13918
+
+!ENTRY org.eclipse.mylyn.tasks.ui 2 0 2025-04-26 01:37:43.230
+!MESSAGE No search provider was registered. Tasks search is not available.
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-04-26 01:37:46.446
+!MESSAGE Boot project ADDED: ArticleService
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-04-26 01:37:46.476
+!MESSAGE Starting Boot LS...
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-04-26 01:37:46.501
+!MESSAGE Started Boot LS process
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-04-26 01:37:46.505
+!MESSAGE Boot project ADDED: Assesment1Student
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-04-26 01:37:46.506
+!MESSAGE Boot project ADDED: HotelMicroservice
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-04-26 01:37:46.506
+!MESSAGE Boot project ADDED: PersonInternationalizatioJSP
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-04-26 01:37:46.586
+!MESSAGE Boot project ADDED: SecurityLoginWith2Buttons
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-04-26 01:37:46.598
+!MESSAGE Boot project ADDED: TravelGig
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-04-26 01:37:46.599
+!MESSAGE Boot project ADDED: TravelGigJSPAssesment
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-04-26 01:39:10.292
+!MESSAGE Classpath changed for project: BookingMicroservice
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-04-26 01:39:11.689
+!MESSAGE Classpath changed for project: BookingMicroservice
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-04-26 01:39:20.933
+!MESSAGE Classpath changed for project: BookingMicroservice
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-04-26 01:39:20.943
+!MESSAGE Boot project ADDED: BookingMicroservice
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-04-26 01:39:21.164
+!MESSAGE Classpath changed for project: BookingMicroservice
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2025-04-26 01:39:23.685
+!MESSAGE Could not download javadoc for com.itextpdf:font-asian:7.2.5
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact com.itextpdf:font-asian:jar:javadoc:7.2.5
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$7(MavenImpl.java:540)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:292)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:509)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:494)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:294)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:300)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing com.itextpdf:font-asian:jar:javadoc:7.2.5
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2025-04-26 01:39:23.690
+!MESSAGE Could not resolve artifact com.itextpdf:font-asian:jar:javadoc:7.2.5
+!SUBENTRY 2 org.eclipse.m2e.core 4 0 2025-04-26 01:39:23.690
+!MESSAGE Missing com.itextpdf:font-asian:jar:javadoc:7.2.5
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2025-04-26 01:39:24.184
+!MESSAGE Could not download javadoc for com.itextpdf:hyph:7.2.5
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact com.itextpdf:hyph:jar:javadoc:7.2.5
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$7(MavenImpl.java:540)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:292)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:509)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:494)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:294)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:300)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing com.itextpdf:hyph:jar:javadoc:7.2.5
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2025-04-26 01:39:24.184
+!MESSAGE Could not resolve artifact com.itextpdf:hyph:jar:javadoc:7.2.5
+!SUBENTRY 2 org.eclipse.m2e.core 4 0 2025-04-26 01:39:24.184
+!MESSAGE Missing com.itextpdf:hyph:jar:javadoc:7.2.5
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-04-26 01:39:30.511
+!MESSAGE The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.

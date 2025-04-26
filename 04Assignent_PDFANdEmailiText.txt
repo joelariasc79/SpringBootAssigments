@@ -1,0 +1,22 @@
+Create a spring boot project that will hit out your database to extract the details of your hotel booking, where Booking entity comprises, property like Booking Date, CheckInDate, CheckOutDate, HotelName, PathHotelPic, CusstomerName, EmailId, Mobile. Create another enity Booking Rules having properties as
+RuleName, RuleDescription
+Now seed the intial data in both the table from the backend and create controller that will take a customerName as a pathvariable and would return a PDF document on the email with booking document attached, UI of the doc would be:
+
+Customer Name:<From Database>
+CheckIn Date:<From Database>
+CheckOut Date:<From Database>
+
+<HotelName>
+Image of Hotel
+
+
+
+Hotel Rules-Show in a tabular Form as
+RuleName	RuleDescription
+1
+2
+3
+
+
+
+
