@@ -453,3 +453,179 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact com.itextpdf:
 2025-04-26 01:39:57,465 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
 2025-04-26 01:39:57,466 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
 2025-04-26 01:39:57,475 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/joel_arias/Desktop/SynergesticIT/Training/Second/SpringBoot/SpringBoot/Classes/BookingMicroservice/src/test/resources
+2025-04-27 18:58:36,557 [Worker-11: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-04-27 18:59:24,988 [Worker-1: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.synex:ThymeInternationalization:0.0.1-SNAPSHOT @ /Users/joel_arias/Desktop/SynergesticIT/Training/Second/SpringBoot/SpringBoot/Assigments/PersonInternationalizatioJSP/pom.xml.
+2025-04-27 18:59:26,153 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-04-27 18:59:26,473 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src/main/resources to target/classes
+2025-04-27 18:59:26,941 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/joel_arias/Desktop/SynergesticIT/Training/Second/SpringBoot/SpringBoot/Assigments/PersonInternationalizatioJSP/src/test/resources
+2025-04-27 18:59:30,570 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-04-27 18:59:30,580 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src/main/resources to target/classes
+2025-04-27 18:59:30,595 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/joel_arias/Desktop/SynergesticIT/Training/Second/SpringBoot/SpringBoot/Assigments/PersonInternationalizatioJSP/src/test/resources
+2025-04-27 18:59:57,709 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-04-27 18:59:57,729 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src/main/resources to target/classes
+2025-04-27 18:59:57,736 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/joel_arias/Desktop/SynergesticIT/Training/Second/SpringBoot/SpringBoot/Assigments/PersonInternationalizatioJSP/src/test/resources
+2025-04-27 19:00:57,497 [Worker-21: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.synex:ThymeInternationalization:0.0.1-SNAPSHOT @ /Users/joel_arias/Desktop/SynergesticIT/Training/Second/SpringBoot/SpringBoot/Assigments/PersonInternationalizatioJSP/pom.xml.
+2025-04-27 19:00:58,386 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-04-27 19:00:58,388 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-04-27 19:00:58,397 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/joel_arias/Desktop/SynergesticIT/Training/Second/SpringBoot/SpringBoot/Assigments/PersonInternationalizatioJSP/src/test/resources
+2025-04-27 19:03:17,453 [Worker-9: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.article:ArticleAPI:0.0.1-SNAPSHOT @ /Users/joel_arias/Desktop/SynergesticIT/Training/Second/SpringBoot/SpringBoot/Assigments/ArticleServiceCache/pom.xml.
+2025-04-27 19:03:18,805 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-04-27 19:03:18,826 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-04-27 19:03:18,834 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/joel_arias/Desktop/SynergesticIT/Training/Second/SpringBoot/SpringBoot/Assigments/ArticleServiceCache/src/test/resources
+2025-04-27 19:03:19,654 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-04-27 19:03:19,663 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-04-27 19:03:19,675 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/joel_arias/Desktop/SynergesticIT/Training/Second/SpringBoot/SpringBoot/Assigments/ArticleServiceCache/src/test/resources
+2025-04-27 19:03:35,272 [Worker-9: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.booking:BookingAPI:0.0.1-SNAPSHOT @ /Users/joel_arias/Desktop/SynergesticIT/Training/Second/SpringBoot/SpringBoot/Classes/BookingMicroservice/pom.xml.
+2025-04-27 19:03:36,163 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-04-27 19:03:36,195 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-04-27 19:03:36,213 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/joel_arias/Desktop/SynergesticIT/Training/Second/SpringBoot/SpringBoot/Classes/BookingMicroservice/src/test/resources
+2025-04-27 19:03:37,099 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-04-27 19:03:37,107 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-04-27 19:03:37,112 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/joel_arias/Desktop/SynergesticIT/Training/Second/SpringBoot/SpringBoot/Classes/BookingMicroservice/src/test/resources
+2025-04-27 19:04:26,986 [Worker-8: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.hotel:SpringBoot2:0.0.1-SNAPSHOT @ /Users/joel_arias/Desktop/SynergesticIT/Training/Second/SpringBoot/SpringBoot/Assigments/TravelGigAssesment/pom.xml.
+2025-04-27 19:04:29,664 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-04-27 19:04:29,735 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-04-27 19:04:29,768 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/joel_arias/Desktop/SynergesticIT/Training/Second/SpringBoot/SpringBoot/Assigments/TravelGigAssesment/src/test/resources
+2025-04-27 19:04:31,237 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-04-27 19:04:31,239 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-04-27 19:04:31,246 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/joel_arias/Desktop/SynergesticIT/Training/Second/SpringBoot/SpringBoot/Assigments/TravelGigAssesment/src/test/resources
+2025-04-27 20:40:09,349 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-04-27 20:40:09,502 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-04-27 20:40:09,516 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/joel_arias/Desktop/SynergesticIT/Training/Second/SpringBoot/SpringBoot/Classes/BookingMicroservice/src/test/resources
+2025-04-27 20:42:59,477 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-04-27 20:42:59,519 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2025-04-27 20:42:59,528 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/joel_arias/Desktop/SynergesticIT/Training/Second/SpringBoot/SpringBoot/Assigments/TravelGigJSPAssesment/src/test/resources
+2025-04-27 20:43:25,105 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-04-27 20:43:25,127 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2025-04-27 20:43:25,131 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/joel_arias/Desktop/SynergesticIT/Training/Second/SpringBoot/SpringBoot/Assigments/TravelGigJSPAssesment/src/test/resources
+2025-04-27 20:51:28,791 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2025-04-27 20:51:28,807 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2025-04-27 20:51:28,822 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/joel_arias/Desktop/SynergesticIT/Training/Second/SpringBoot/SpringBoot/Assigments/TravelGigJSPAssesment/src/test/resources
+2025-04-27 20:51:38,333 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2025-04-27 20:51:38,334 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2025-04-27 20:51:38,340 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/joel_arias/Desktop/SynergesticIT/Training/Second/SpringBoot/SpringBoot/Assigments/TravelGigJSPAssesment/src/test/resources
+2025-04-27 20:51:39,389 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-04-27 20:51:39,391 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-04-27 20:51:39,394 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/joel_arias/Desktop/SynergesticIT/Training/Second/SpringBoot/SpringBoot/Assigments/TravelGigAssesment/src/test/resources
+2025-04-27 20:51:49,018 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-04-27 20:51:49,020 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-04-27 20:51:49,024 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/joel_arias/Desktop/SynergesticIT/Training/Second/SpringBoot/SpringBoot/Assigments/TravelGigAssesment/src/test/resources
+2025-04-27 20:54:52,167 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-04-27 20:54:52,174 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-04-27 20:54:52,187 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/joel_arias/Desktop/SynergesticIT/Training/Second/SpringBoot/SpringBoot/Assigments/TravelGigAssesment/src/test/resources
+2025-04-27 20:54:59,871 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-04-27 20:54:59,879 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-04-27 20:54:59,892 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/joel_arias/Desktop/SynergesticIT/Training/Second/SpringBoot/SpringBoot/Assigments/TravelGigAssesment/src/test/resources
+2025-04-27 21:00:58,405 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-04-27 21:00:59,120 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-04-27 21:00:59,549 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/joel_arias/Desktop/SynergesticIT/Training/Second/SpringBoot/SpringBoot/Assigments/TravelGigAssesment/src/test/resources
+2025-04-27 21:01:15,069 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-04-27 21:01:15,105 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-04-27 21:01:15,111 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/joel_arias/Desktop/SynergesticIT/Training/Second/SpringBoot/SpringBoot/Assigments/TravelGigAssesment/src/test/resources
+2025-04-27 21:01:32,187 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-04-27 21:01:32,225 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-04-27 21:01:32,230 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/joel_arias/Desktop/SynergesticIT/Training/Second/SpringBoot/SpringBoot/Assigments/TravelGigAssesment/src/test/resources
+2025-04-27 21:04:38,454 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-04-27 21:04:38,499 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-04-27 21:04:38,511 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/joel_arias/Desktop/SynergesticIT/Training/Second/SpringBoot/SpringBoot/Assigments/TravelGigAssesment/src/test/resources
+2025-04-27 21:05:04,168 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-04-27 21:05:04,209 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-04-27 21:05:04,216 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/joel_arias/Desktop/SynergesticIT/Training/Second/SpringBoot/SpringBoot/Assigments/TravelGigAssesment/src/test/resources
+2025-04-27 21:06:40,201 [Worker-30: Check for devtools] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+2025-04-27 21:06:53,262 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-04-27 21:06:53,311 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2025-04-27 21:06:53,325 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/joel_arias/Desktop/SynergesticIT/Training/Second/SpringBoot/SpringBoot/Assigments/SecurityLoginWith2Buttons/src/test/resources
+2025-04-27 21:10:34,733 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-04-27 21:10:34,766 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2025-04-27 21:10:34,775 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/joel_arias/Desktop/SynergesticIT/Training/Second/SpringBoot/SpringBoot/Assigments/SecurityLoginWith2Buttons/src/test/resources
+2025-04-27 21:11:59,782 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-04-27 21:11:59,828 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2025-04-27 21:11:59,833 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/joel_arias/Desktop/SynergesticIT/Training/Second/SpringBoot/SpringBoot/Assigments/SecurityLoginWith2Buttons/src/test/resources
+2025-04-27 21:22:12,072 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-04-27 21:22:12,106 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2025-04-27 21:22:12,220 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/joel_arias/Desktop/SynergesticIT/Training/Second/SpringBoot/SpringBoot/Assigments/SecurityLoginWith2Buttons/src/test/resources
+2025-04-27 21:22:14,526 [Worker-40: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.synex:TravelGig:0.0.1-SNAPSHOT @ /Users/joel_arias/Desktop/SynergesticIT/Training/Second/SpringBoot/SpringBoot/Assigments/SecurityLoginWith2Buttons23/pom.xml.
+2025-04-27 21:22:15,037 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+2025-04-27 21:22:15,499 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-04-27 21:22:15,517 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2025-04-27 21:22:15,529 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/joel_arias/Desktop/SynergesticIT/Training/Second/SpringBoot/SpringBoot/Assigments/SecurityLoginWith2Buttons23/src/test/resources
+2025-04-27 21:22:17,170 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-04-27 21:22:17,174 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2025-04-27 21:22:17,185 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/joel_arias/Desktop/SynergesticIT/Training/Second/SpringBoot/SpringBoot/Assigments/SecurityLoginWith2Buttons23/src/test/resources
+2025-04-27 21:22:34,325 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-04-27 21:22:34,386 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2025-04-27 21:22:34,401 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/joel_arias/Desktop/SynergesticIT/Training/Second/SpringBoot/SpringBoot/Assigments/SecurityLoginWith2Buttons/src/test/resources
+2025-04-27 21:23:52,865 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-04-27 21:23:52,885 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2025-04-27 21:23:52,888 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/joel_arias/Desktop/SynergesticIT/Training/Second/SpringBoot/SpringBoot/Assigments/SecurityLoginWith2Buttons/src/test/resources
+2025-04-27 21:24:37,852 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-04-27 21:24:37,867 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2025-04-27 21:24:37,872 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/joel_arias/Desktop/SynergesticIT/Training/Second/SpringBoot/SpringBoot/Assigments/SecurityLoginWith2Buttons/src/test/resources
+2025-04-27 21:24:52,359 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-04-27 21:24:52,566 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2025-04-27 21:24:53,658 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/joel_arias/Desktop/SynergesticIT/Training/Second/SpringBoot/SpringBoot/Assigments/SecurityLoginWith2Buttons/src/test/resources
+2025-04-28 12:03:45,860 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-04-30 22:51:51,001 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-04-30 22:53:45,794 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-04-30 22:53:45,850 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-04-30 22:53:45,865 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/joel_arias/Desktop/SynergesticIT/Training/Second/SpringBoot/SpringBoot/Assigments/ArticleServiceCache/src/test/resources
+2025-04-30 22:53:48,769 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-04-30 22:53:48,783 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-04-30 22:53:48,811 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/joel_arias/Desktop/SynergesticIT/Training/Second/SpringBoot/SpringBoot/Assigments/Assesment1Student/src/test/resources
+2025-04-30 22:53:51,755 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-04-30 22:53:51,802 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-04-30 22:53:51,881 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/joel_arias/Desktop/SynergesticIT/Training/Second/SpringBoot/SpringBoot/Classes/BookingMicroservice/src/test/resources
+2025-04-30 22:53:53,526 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-04-30 22:53:53,550 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-04-30 22:53:53,558 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/joel_arias/Desktop/SynergesticIT/Training/Second/SpringBoot/SpringBoot/Assigments/HotelMicroservice/src/test/resources
+2025-04-30 22:53:55,096 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-04-30 22:53:55,108 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src/main/resources to target/classes
+2025-04-30 22:53:55,119 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/joel_arias/Desktop/SynergesticIT/Training/Second/SpringBoot/SpringBoot/Assigments/PersonInternationalizatioJSP/src/test/resources
+2025-04-30 22:53:58,423 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+2025-04-30 22:53:58,781 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-04-30 22:53:58,798 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2025-04-30 22:53:58,810 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/joel_arias/Desktop/SynergesticIT/Training/Second/SpringBoot/SpringBoot/Assigments/SecurityLoginWith2Buttons/src/test/resources
+2025-04-30 22:54:00,295 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+2025-04-30 22:54:00,451 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-04-30 22:54:00,463 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2025-04-30 22:54:00,469 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/joel_arias/Desktop/SynergesticIT/Training/Second/SpringBoot/SpringBoot/Assigments/SecurityLoginWith2Buttons23/src/test/resources
+2025-04-30 22:54:01,682 [Worker-18: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.core:WeatherAPI:0.0.1-SNAPSHOT @ /Users/joel_arias/Desktop/SynergesticIT/Training/Second/SpringBoot/SpringBoot/Classes/TitleDescriptionsAssessment/pom.xml.
+2025-04-30 22:54:04,055 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-04-30 22:54:04,096 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-04-30 22:54:04,110 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/joel_arias/Desktop/SynergesticIT/Training/Second/SpringBoot/SpringBoot/Classes/TitleDescriptionsAssessment/src/test/resources
+2025-04-30 22:54:05,662 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-04-30 22:54:05,677 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-04-30 22:54:05,698 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/joel_arias/Desktop/SynergesticIT/Training/Second/SpringBoot/SpringBoot/Assigments/TravelGigAssesment/src/test/resources
+2025-04-30 22:54:06,460 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-04-30 22:54:06,487 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2025-04-30 22:54:06,491 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/joel_arias/Desktop/SynergesticIT/Training/Second/SpringBoot/SpringBoot/Assigments/TravelGigJSPAssesment/src/test/resources
+2025-04-30 22:54:08,997 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-04-30 22:54:09,018 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-04-30 22:54:09,028 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/joel_arias/Desktop/SynergesticIT/Training/Second/SpringBoot/SpringBoot/Classes/TitleDescriptionsAssessment/src/test/resources
+2025-04-30 22:54:20,493 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2025-04-30 22:54:20,496 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2025-04-30 22:54:20,507 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/joel_arias/Desktop/SynergesticIT/Training/Second/SpringBoot/SpringBoot/Assigments/SecurityLoginWith2Buttons/src/test/resources
+2025-04-30 22:54:26,857 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2025-04-30 22:54:26,858 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2025-04-30 22:54:26,862 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/joel_arias/Desktop/SynergesticIT/Training/Second/SpringBoot/SpringBoot/Assigments/SecurityLoginWith2Buttons/src/test/resources
+2025-04-30 22:54:30,724 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-04-30 22:54:30,725 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-04-30 22:54:30,730 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/joel_arias/Desktop/SynergesticIT/Training/Second/SpringBoot/SpringBoot/Classes/TitleDescriptionsAssessment/src/test/resources
+2025-04-30 22:54:52,699 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-04-30 22:54:52,704 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-04-30 22:54:52,712 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/joel_arias/Desktop/SynergesticIT/Training/Second/SpringBoot/SpringBoot/Classes/TitleDescriptionsAssessment/src/test/resources
+2025-04-30 22:54:52,963 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-04-30 22:54:52,964 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-04-30 22:54:52,968 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/joel_arias/Desktop/SynergesticIT/Training/Second/SpringBoot/SpringBoot/Assigments/PersonInternationalizatioJSP/src/test/resources
+2025-04-30 22:54:53,113 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-04-30 22:54:53,118 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-04-30 22:54:53,123 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/joel_arias/Desktop/SynergesticIT/Training/Second/SpringBoot/SpringBoot/Assigments/PersonInternationalizatioJSP/src/test/resources
+2025-04-30 22:54:53,268 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-04-30 22:54:53,270 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-04-30 22:54:53,273 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/joel_arias/Desktop/SynergesticIT/Training/Second/SpringBoot/SpringBoot/Assigments/PersonInternationalizatioJSP/src/test/resources
+2025-04-30 22:54:53,471 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-04-30 22:54:53,472 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-04-30 22:54:53,480 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/joel_arias/Desktop/SynergesticIT/Training/Second/SpringBoot/SpringBoot/Classes/TitleDescriptionsAssessment/src/test/resources
+2025-04-30 22:54:54,553 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-04-30 22:54:54,556 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-04-30 22:54:54,560 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/joel_arias/Desktop/SynergesticIT/Training/Second/SpringBoot/SpringBoot/Classes/TitleDescriptionsAssessment/src/test/resources

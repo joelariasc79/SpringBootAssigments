@@ -20,15 +20,4 @@ public class LocalDemoController {
 		this.messageSource = messageSource;
 	} 
 	
-//	@GetMapping
-//	public String sayHello() {
-//		return messageSource.getMessage("common.hello", null, Locale.GERMANY);
-//	}
-//	
-//	
-//	@GetMapping("/with-header")
-//	public String sayHelloWithHeader(@RequestHeader(name = "Accept-Language", required = false) Locale locale) {
-//		return messageSource.getMessage("common.hello", null, LocaleContextHolder.getLocale());
-//	}
-	
 }
